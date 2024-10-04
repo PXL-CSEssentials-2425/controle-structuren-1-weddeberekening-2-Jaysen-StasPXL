@@ -18,6 +18,7 @@ namespace WpfApp1
     {
         public MainWindow()
         {
+            Console.Write("hallo");
             InitializeComponent();
         }
     }
